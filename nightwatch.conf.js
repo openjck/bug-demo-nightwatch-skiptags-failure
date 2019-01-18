@@ -16,7 +16,7 @@ module.exports = {
                 chromeOptions: {
                     args: ['--headless'],
                 },
-            }
+            },
         },
     },
 };
