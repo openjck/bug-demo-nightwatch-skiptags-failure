@@ -1,0 +1,10 @@
+{
+    "name": "bug-demo-nightwatch-skiptags-failure",
+    "scripts": {
+        "test": "nightwatch --verbose --skiptags 'some-tag-name'"
+    },
+    "devDependencies": {
+        "nightwatch": "1.0.18",
+        "selenium-server-standalone-jar": "3.141.5"
+    }
+}
